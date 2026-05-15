@@ -6,7 +6,7 @@ A modern, responsive currency converter built with React.
 ## Screenshots
 
 ### UI
-![Login](Screenshot 2026-05-15 113348.png)
+![UI](UI.png)
 
 
 
