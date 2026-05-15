@@ -2,6 +2,15 @@
 
 A modern, responsive currency converter built with React.
 
+
+## Screenshots
+
+### UI
+![Login](Screenshot 2026-05-15 113348.png)
+
+
+
+
 ## Features
 
 - Real-time currency conversion using live exchange rates
@@ -17,6 +26,7 @@ A modern, responsive currency converter built with React.
 
 - Node.js (version 14 or higher)
 - npm or yarn
+
 
 ### Installation
 
